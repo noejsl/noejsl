@@ -102,7 +102,7 @@ I'm especially interested in projects that allow me to combine **programming, da
 
 If you would like to get in touch with me:
 
-* **Email:** [your-email@example.com](jesus.salazarlr@uanl.edu.mx)
+* **Email:** [jesus.salazarlr@uanl.edu.mx](mailto:jesus.salazarlr@uanl.edu.mx)
 * **GitHub:** [@noejsl](https://github.com/noejsl)
 
 ---
